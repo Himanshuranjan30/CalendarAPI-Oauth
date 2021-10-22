@@ -1,4 +1,4 @@
-# springboot-Firstapp - tutorial
+# springboot-Firstapp - tutorial for spring boot
 
 # SQL Shell Workflow:
 - \sql
@@ -7,4 +7,4 @@
 - show databases;
 - use db_name;
 - show tables;
-- select * from tables;
+- select * from tables; 
