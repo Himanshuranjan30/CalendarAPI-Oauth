@@ -1,4 +1,4 @@
-# springboot-Firstapp - tutorial
+# springboot-Firstapp - tutorial starts so gear up
 
 # SQL Shell Workflow:
 - \sql
