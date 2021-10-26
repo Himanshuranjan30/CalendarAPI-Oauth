@@ -1,4 +1,5 @@
 
+
 # SQL Shell Workflow:
 - \sql
 - show databases;
@@ -6,4 +7,4 @@
 - show databases;
 - use db_name;
 - show tables;
-- select * from tables;
+- select * from tables; 
